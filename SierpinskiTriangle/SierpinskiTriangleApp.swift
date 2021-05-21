@@ -2,7 +2,7 @@
 //  SierpinskiTriangleApp.swift
 //  SierpinskiTriangle
 //
-//  Created by Hung-Chun Tsai on 2021-05-20.
+//  Created by Hung-Chun Tsai on 2021-05-19.
 //
 
 import SwiftUI
