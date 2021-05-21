@@ -11,6 +11,7 @@
 		2BE578B9265750A9001DBB03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE578B8265750A9001DBB03 /* ContentView.swift */; };
 		2BE578BB265750A9001DBB03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BE578BA265750A9001DBB03 /* Assets.xcassets */; };
 		2BE578BE265750A9001DBB03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BE578BD265750A9001DBB03 /* Preview Assets.xcassets */; };
+		2BE578C726575CE5001DBB03 /* 01.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2BE578C626575CE5001DBB03 /* 01.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2BE578BA265750A9001DBB03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BE578BD265750A9001DBB03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2BE578BF265750A9001DBB03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BE578C626575CE5001DBB03 /* 01.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 01.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		2BE578AA265750A9001DBB03 = {
 			isa = PBXGroup;
 			children = (
+				2BE578C526575CA2001DBB03 /* Screenshot */,
 				2BE578B5265750A9001DBB03 /* SierpinskiTriangle */,
 				2BE578B4265750A9001DBB03 /* Products */,
 			);
@@ -67,6 +70,14 @@
 				2BE578BD265750A9001DBB03 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2BE578C526575CA2001DBB03 /* Screenshot */ = {
+			isa = PBXGroup;
+			children = (
+				2BE578C626575CE5001DBB03 /* 01.gif */,
+			);
+			path = Screenshot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +139,7 @@
 			files = (
 				2BE578BE265750A9001DBB03 /* Preview Assets.xcassets in Resources */,
 				2BE578BB265750A9001DBB03 /* Assets.xcassets in Resources */,
+				2BE578C726575CE5001DBB03 /* 01.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
